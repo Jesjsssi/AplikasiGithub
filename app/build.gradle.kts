@@ -21,7 +21,7 @@ android {
         buildConfigField(
             "String",
             "API_KEY",
-            "\"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\""
+            "\"your API ID\""
         )
         buildConfigField(
             "String",
